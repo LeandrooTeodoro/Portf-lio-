@@ -14,9 +14,15 @@ python3 -m http.server 8000
 
 e acesse http://localhost:8000.
 
-## Publicação
+## Publicação na Vercel
 
-Pode ser publicado de graça na Vercel (importe o repositório, sem configuração de build) ou no GitHub Pages (Settings → Pages → branch `main`, pasta raiz).
+O projeto já vem pronto para a Vercel (`vercel.json` incluso), sem etapa de build:
+
+1. Acesse [vercel.com/new](https://vercel.com/new) e importe este repositório.
+2. Framework Preset: **Other**. Deixe Build Command e Output Directory em branco.
+3. Clique em **Deploy**.
+
+Cada novo commit na branch `main` publica o site automaticamente.
 
 ## Visual
 
