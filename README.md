@@ -2,7 +2,7 @@
 
 > "Conectar ideias que parecem distantes é onde as melhores soluções aparecem."
 
-Portfólio pessoal de Leandro Teodoro, futuro Engenheiro de IA e membro da **LOT**, uma equipe bootstrapping. Mostra a profissão dos sonhos, os conhecimentos atuais, a stack, a jornada e os projetos da LOT (Flow Enterprise, IESP e STMJ), além dos contatos.
+Portfólio pessoal de Leandro Teodoro, futuro Engenheiro de IA e membro da **LOT**, uma equipe bootstrapping. Mostra a profissão dos sonhos, os conhecimentos atuais, a stack, a jornada e os projetos da LOT, além dos contatos.
 
 ## Como rodar
 
